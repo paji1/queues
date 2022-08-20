@@ -1,6 +1,7 @@
 {
 	"makefile.extensionOutputFolder": "./.vscode",
 	"files.associations": {
-		"queue.h": "c"
+		"queue.h": "c",
+		"types_q.h": "c"
 	}
 }
